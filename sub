@@ -1,7 +1,8 @@
 int main()
 {
 int a,b;
-//a=10,b=20;
+//a=10,b=20,c;
 scanf(a,b)
-printf(a-b);
+c=a-b;
+printf(c);
 }
