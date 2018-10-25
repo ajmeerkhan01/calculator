@@ -1,5 +1,6 @@
 int main()
 {
-	int a,b;
+	int a,b,c;
 	scanf(a,b);
-	pf(a+b)
+	c=a+b;
+	pf(c)
